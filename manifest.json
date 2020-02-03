@@ -1,0 +1,11 @@
+{
+  "name": "cookie and sound test 12",
+  "version": "1.0",
+  "description": "making sound with cookies, mouse position.",
+  "permissions": ["cookies", "tabs", "http://*/*", "https://*/*"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {},
+  "manifest_version": 2
+}
